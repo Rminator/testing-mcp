@@ -57,4 +57,7 @@ Feel free to open issues or submit pull requests with improvements.
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
+## Fun Corner
 
+Why do programmers always mix up Christmas and Halloween?
+Because Oct 31 == Dec 25!
